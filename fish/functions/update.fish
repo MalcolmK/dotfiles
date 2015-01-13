@@ -27,13 +27,7 @@ function update
         fish_update_completions
     echo 'Fish completions updated.'
 
-    echo 'Updating dotfiles.'
-        pushd
-        dotfiles
-        gac "Update settings"
-        gsync
-        popd
-    echo 'Dotfiles updated.'
+    update-dotfiles
 
     echo 'Updating composer.'
         which composer; and composer self-update

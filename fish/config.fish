@@ -3,3 +3,6 @@ set -x PATH (brew --prefix coreutils)/libexec/gnubin $PATH
 set -x PATH /Users/Malcolm/pear/bin $PATH
 
 boot2docker shellinit | while read line; eval $line; end
+
+# Autojump
+# [[ -s $(brew --prefix)/etc/autojump.sh ]] && . $(brew --prefix)/etc/autojump.sh
