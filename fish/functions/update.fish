@@ -7,17 +7,17 @@ function update
 
     sudo -v
 
-    echo 'Update locate database.'
-        /usr/libexec/locate.updatedb
-    echo 'Locate database updated.'
-
     echo 'Updating brew.'
         brew update
     echo 'Brew updated.'
 
+    sudo -v
+
     echo 'Upgrading brew packages.'
         brew upgrade
     echo 'Brew packages upgraded.'
+
+    sudo -v
 
     echo 'Running brew cleanup.'
         brew cleanup
