@@ -1,4 +1,5 @@
 ack
+bison
 brew-cask
 composer
 coreutils
@@ -11,6 +12,7 @@ gettext
 git
 icu4c
 jpeg
+jq
 libevent
 libpng
 libtool

@@ -5,3 +5,5 @@ gimp
 spotify
 steam
 telegram
+vlc
+wkhtmltopdf
