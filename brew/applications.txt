@@ -1,11 +1,14 @@
 beardedspice
-disk-drill
+boot2docker
+cyberduck
 flux
 gas-mask
 gimp
 sequel-pro
+skitch
 spotify
 steam
+teamviewer
 telegram
 vlc
 wkhtmltopdf
