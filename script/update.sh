@@ -10,6 +10,7 @@ cd $SCRIPT_PATH/..
 ## Brew
 brew list > brew/libraries.txt
 brew cask list > brew/applications.txt
+
 # TODO: Auto-commit changes
 
 # Cleanup
