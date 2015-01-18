@@ -22,6 +22,6 @@ function bitly
     rm -f $tmpfile
 
     # Set short url to clipboard
-    echo $bitly_result | pbcopy
-    echo $bitly_result
+    echo -n $bitly_result | pbcopy
+    echo -n $bitly_result
 end

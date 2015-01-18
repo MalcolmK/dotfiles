@@ -4,6 +4,6 @@ function transfer
 	curl --progress-bar --upload-file "$argv[1]" "https://transfer.sh/$filename" >> $tmpfile
 	set url (cat $tmpfile)
 	rm -f $tmpfile
-	echo $url | pbcopy
-	echo $url
+	echo -n $url | pbcopy
+	echo -n $url
 end
