@@ -2,6 +2,7 @@ beardedspice
 flux
 gas-mask
 gimp
+sequel-pro
 spotify
 steam
 telegram
