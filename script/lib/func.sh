@@ -45,8 +45,8 @@ echo_error () {
 
 # Symlinking
 remove_symlink () {
-	if [ -f $1 ] || [ -h $1 ]; then
-		rm $1
+	if [ -f "$1" ] || [ -h "$1" ]; then
+		rm "$1"
 	else
 		return 1
 	fi
@@ -66,6 +66,6 @@ create_symlink () {
 }
 
 replace_symlink () {
-	remove_symlink $2
-	create_symlink $@
+	remove_symlink "$2"
+	create_symlink "$@"
 }
