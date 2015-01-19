@@ -8,5 +8,6 @@
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
 	"scroll_past_end": true,
+	"font_size": 11.5,
 	"theme": "Brogrammer.sublime-theme"
 }
