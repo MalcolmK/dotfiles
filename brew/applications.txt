@@ -4,6 +4,7 @@ cyberduck
 flux
 gas-mask
 gimp
+google-chrome
 sequel-pro
 skitch
 spotify
