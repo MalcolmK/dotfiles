@@ -5,6 +5,7 @@ flux
 gas-mask
 gimp
 google-chrome
+pencil
 sequel-pro
 skitch
 spotify
