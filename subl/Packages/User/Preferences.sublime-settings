@@ -9,5 +9,13 @@
 	"line_padding_top": 4,
 	"scroll_past_end": true,
 	"font_size": 11.5,
-	"theme": "Brogrammer.sublime-theme"
+	"show_tab_close_buttons": false,
+	"bold_folder_labels": true,
+	"theme": "Brogrammer.sublime-theme",
+	"auto_complete_commit_on_tab": true,
+	"ensure_newline_at_eof_on_save": true,
+	"highlight_line": true,
+ 	"highlight_modified_tabs": true,
+ 	"shift_tab_unindent": true,
+ 	"trim_trailing_white_space_on_save": true
 }
