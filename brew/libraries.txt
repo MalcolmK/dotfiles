@@ -4,6 +4,7 @@ brew-cask
 composer
 coreutils
 emacs
+fig
 findutils
 fish
 freetype
