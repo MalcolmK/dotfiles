@@ -1,5 +1,6 @@
 ack
 bison
+boxes
 brew-cask
 composer
 coreutils
