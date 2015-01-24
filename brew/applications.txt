@@ -5,6 +5,7 @@ flux
 gas-mask
 gimp
 google-chrome
+licecap
 pencil
 sequel-pro
 skitch

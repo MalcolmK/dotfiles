@@ -1,5 +1,5 @@
 {
-	"auto_complete_commit_on_tab": true,
+	"auto_complete_commit_on_tab": false,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
@@ -8,8 +8,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
