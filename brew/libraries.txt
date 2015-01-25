@@ -9,6 +9,7 @@ fig
 findutils
 fish
 freetype
+fzf
 gdbm
 gettext
 git
