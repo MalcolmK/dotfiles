@@ -23,6 +23,10 @@ function update
         brew cleanup
     echo 'Brew cleaned up.'
 
+    echo "Clean Brew Cask cached downloads and tracker symlinks."
+        brew cask cleanup
+    echo "Brew Cask cleaned up."
+
     echo 'Updating fish completions.'
         fish_update_completions
     echo 'Fish completions updated.'
