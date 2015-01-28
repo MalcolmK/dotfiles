@@ -1,3 +1,4 @@
+alfred
 beardedspice
 boot2docker
 cyberduck

@@ -2,6 +2,7 @@ ack
 bison
 boxes
 brew-cask
+colordiff
 composer
 coreutils
 emacs
