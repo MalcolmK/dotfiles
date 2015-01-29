@@ -6,6 +6,7 @@ flux
 gas-mask
 gimp
 google-chrome
+karabiner
 licecap
 pencil
 sequel-pro

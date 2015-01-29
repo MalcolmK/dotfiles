@@ -10,6 +10,7 @@ fig
 findutils
 fish
 freetype
+fsw
 fzf
 gdbm
 gettext
