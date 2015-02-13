@@ -1,6 +1,7 @@
 alfred
 beardedspice
 boot2docker
+cord
 cyberduck
 flux
 gas-mask
