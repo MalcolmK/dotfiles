@@ -1,11 +1,13 @@
 ack
 autoconf
 bison
+boot2docker
 boxes
 brew-cask
 colordiff
 composer
 coreutils
+docker
 emacs
 fig
 findutils
