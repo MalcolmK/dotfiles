@@ -1,4 +1,5 @@
 ack
+asciinema
 autoconf
 bison
 boot2docker
