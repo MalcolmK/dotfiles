@@ -3,6 +3,7 @@ beardedspice
 boot2docker
 cord
 cyberduck
+eclipse-java
 flux
 gas-mask
 gimp
