@@ -1,3 +1,4 @@
 function dmp-references
-	cd ~/dmp-references/
+    dmp-plugins
+	cd dmp-references/
 end
