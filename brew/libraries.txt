@@ -37,6 +37,7 @@ php-cs-fixer
 php54
 php54-apc
 phpmd
+phpunit
 python
 readline
 siege

@@ -27,3 +27,9 @@ set werksite_sql_pro $HOME/Documents/Call\ Communicatie/workflows/werksite.nl/we
 
 # >>> Sublime Project
 set werksite_subl_project $HOME/Documents/SublimeProjects/werksite.nl.sublime-project
+
+#
+# > Set Editors
+#
+# >> SVN
+set -x SVN_EDITOR "vim"
