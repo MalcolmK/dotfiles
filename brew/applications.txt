@@ -13,6 +13,7 @@ karabiner
 licecap
 pencil
 sequel-pro
+simpless
 skitch
 spotify
 steam

@@ -10,6 +10,7 @@ composer
 coreutils
 docker
 emacs
+ffmpeg
 fig
 findutils
 fish
@@ -25,9 +26,11 @@ httpie
 icu4c
 jpeg
 jq
+lame
 libevent
 libpng
 libtool
+libvo-aacenc
 libyaml
 node
 openssl
@@ -47,4 +50,6 @@ terminal-notifier
 tree
 unixodbc
 wget
+x264
+xvid
 zlib
