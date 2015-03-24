@@ -5,6 +5,7 @@ bison
 boot2docker
 boxes
 brew-cask
+ccze
 colordiff
 composer
 coreutils
