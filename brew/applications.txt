@@ -4,6 +4,7 @@ boot2docker
 cord
 cyberduck
 eclipse-java
+firefox
 flux
 gas-mask
 gimp
