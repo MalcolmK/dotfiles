@@ -9,7 +9,10 @@
 	"ignored_packages":
 	[
 		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Jade",
+		"SublimeCodeIntel",
+		"Table of comments"
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
