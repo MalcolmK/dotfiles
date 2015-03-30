@@ -7,7 +7,6 @@ eclipse-java
 firefox
 flux
 gas-mask
-gimp
 google-chrome
 google-drive
 karabiner

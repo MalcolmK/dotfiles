@@ -6,6 +6,7 @@ boot2docker
 boxes
 brew-cask
 ccze
+closure-compiler
 colordiff
 composer
 coreutils
