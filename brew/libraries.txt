@@ -24,6 +24,7 @@ gettext
 git
 git-crypt
 go
+gradle
 httpie
 icu4c
 jpeg

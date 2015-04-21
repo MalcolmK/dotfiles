@@ -12,6 +12,7 @@ google-drive
 karabiner
 licecap
 pencil
+puush
 sequel-pro
 simpless
 skitch
