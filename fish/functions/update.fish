@@ -17,7 +17,7 @@ function update
 
     echo ''
     echo 'Upgrading brew packages.'
-        brew upgrade
+        brew upgrade --all
     echo 'Brew packages upgraded.'
 
     sudo -v
