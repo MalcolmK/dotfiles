@@ -15,6 +15,7 @@ pencil
 puush
 sequel-pro
 simpless
+skim
 skitch
 spotify
 steam
