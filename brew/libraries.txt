@@ -50,6 +50,7 @@ siege
 sqlite
 subversion
 terminal-notifier
+thefuck
 tree
 unixodbc
 wget
