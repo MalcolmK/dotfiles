@@ -1,6 +1,7 @@
 alfred
 beardedspice
 boot2docker
+chromecast
 cord
 cyberduck
 eclipse-java
