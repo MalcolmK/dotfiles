@@ -8,6 +8,7 @@ eclipse-java
 firefox
 flux
 gas-mask
+google-chrome
 google-drive
 karabiner
 licecap
