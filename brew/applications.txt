@@ -22,5 +22,6 @@ spotify
 steam
 teamviewer
 telegram
+the-unarchiver
 vlc
 wkhtmltopdf

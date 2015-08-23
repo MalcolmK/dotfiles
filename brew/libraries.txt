@@ -36,6 +36,7 @@ libtool
 libvo-aacenc
 libyaml
 node
+oniguruma
 openssl
 pcre
 php-code-sniffer
